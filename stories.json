@@ -1,0 +1,593 @@
+{
+  "v": 3,
+  "stories": {
+    "addons-a11y--default": {
+      "id": "addons-a11y--default",
+      "name": "Default",
+      "title": "Addons/a11y",
+      "importPath": "./stories/addon-a11y.stories.js",
+      "kind": "Addons/a11y",
+      "story": "Default",
+      "parameters": {
+        "fileName": "./stories/addon-a11y.stories.js",
+        "framework": "html",
+        "__id": "addons-a11y--default",
+        "__isArgsStory": false
+      }
+    },
+    "addons-a11y--label": {
+      "id": "addons-a11y--label",
+      "name": "Label",
+      "title": "Addons/a11y",
+      "importPath": "./stories/addon-a11y.stories.js",
+      "kind": "Addons/a11y",
+      "story": "Label",
+      "parameters": {
+        "fileName": "./stories/addon-a11y.stories.js",
+        "framework": "html",
+        "__id": "addons-a11y--label",
+        "__isArgsStory": false
+      }
+    },
+    "addons-a11y--disabled": {
+      "id": "addons-a11y--disabled",
+      "name": "Disabled",
+      "title": "Addons/a11y",
+      "importPath": "./stories/addon-a11y.stories.js",
+      "kind": "Addons/a11y",
+      "story": "Disabled",
+      "parameters": {
+        "fileName": "./stories/addon-a11y.stories.js",
+        "framework": "html",
+        "__id": "addons-a11y--disabled",
+        "__isArgsStory": false
+      }
+    },
+    "addons-a11y--story-4": {
+      "id": "addons-a11y--story-4",
+      "name": "Invalid contrast",
+      "title": "Addons/a11y",
+      "importPath": "./stories/addon-a11y.stories.js",
+      "kind": "Addons/a11y",
+      "story": "Invalid contrast",
+      "parameters": {
+        "fileName": "./stories/addon-a11y.stories.js",
+        "framework": "html",
+        "__id": "addons-a11y--story-4",
+        "__isArgsStory": false
+      }
+    },
+    "addons-a11y--story-5": {
+      "id": "addons-a11y--story-5",
+      "name": "Delayed render",
+      "title": "Addons/a11y",
+      "importPath": "./stories/addon-a11y.stories.js",
+      "kind": "Addons/a11y",
+      "story": "Delayed render",
+      "parameters": {
+        "fileName": "./stories/addon-a11y.stories.js",
+        "framework": "html",
+        "__id": "addons-a11y--story-5",
+        "__isArgsStory": false
+      }
+    },
+    "addons-actions--story-1": {
+      "id": "addons-actions--story-1",
+      "name": "Hello World",
+      "title": "Addons/Actions",
+      "importPath": "./stories/addon-actions.stories.js",
+      "kind": "Addons/Actions",
+      "story": "Hello World",
+      "parameters": {
+        "fileName": "./stories/addon-actions.stories.js",
+        "framework": "html",
+        "__id": "addons-actions--story-1",
+        "__isArgsStory": false
+      }
+    },
+    "addons-actions--story-2": {
+      "id": "addons-actions--story-2",
+      "name": "Multiple actions",
+      "title": "Addons/Actions",
+      "importPath": "./stories/addon-actions.stories.js",
+      "kind": "Addons/Actions",
+      "story": "Multiple actions",
+      "parameters": {
+        "fileName": "./stories/addon-actions.stories.js",
+        "framework": "html",
+        "__id": "addons-actions--story-2",
+        "__isArgsStory": false
+      }
+    },
+    "addons-actions--story-3": {
+      "id": "addons-actions--story-3",
+      "name": "Multiple actions + config",
+      "title": "Addons/Actions",
+      "importPath": "./stories/addon-actions.stories.js",
+      "kind": "Addons/Actions",
+      "story": "Multiple actions + config",
+      "parameters": {
+        "fileName": "./stories/addon-actions.stories.js",
+        "framework": "html",
+        "__id": "addons-actions--story-3",
+        "__isArgsStory": false
+      }
+    },
+    "addons-actions--story-4": {
+      "id": "addons-actions--story-4",
+      "name": "Multiple actions, object",
+      "title": "Addons/Actions",
+      "importPath": "./stories/addon-actions.stories.js",
+      "kind": "Addons/Actions",
+      "story": "Multiple actions, object",
+      "parameters": {
+        "fileName": "./stories/addon-actions.stories.js",
+        "framework": "html",
+        "__id": "addons-actions--story-4",
+        "__isArgsStory": false
+      }
+    },
+    "addons-actions--story-5": {
+      "id": "addons-actions--story-5",
+      "name": "Multiple actions, selector",
+      "title": "Addons/Actions",
+      "importPath": "./stories/addon-actions.stories.js",
+      "kind": "Addons/Actions",
+      "story": "Multiple actions, selector",
+      "parameters": {
+        "fileName": "./stories/addon-actions.stories.js",
+        "framework": "html",
+        "__id": "addons-actions--story-5",
+        "__isArgsStory": false
+      }
+    },
+    "addons-actions--story-6": {
+      "id": "addons-actions--story-6",
+      "name": "Multiple actions, object + config",
+      "title": "Addons/Actions",
+      "importPath": "./stories/addon-actions.stories.js",
+      "kind": "Addons/Actions",
+      "story": "Multiple actions, object + config",
+      "parameters": {
+        "fileName": "./stories/addon-actions.stories.js",
+        "framework": "html",
+        "__id": "addons-actions--story-6",
+        "__isArgsStory": false
+      }
+    },
+    "addons-actions--deprecated-decorators-story-1": {
+      "id": "addons-actions--deprecated-decorators-story-1",
+      "name": "Deprecated decorators - Single action",
+      "title": "Addons/Actions",
+      "importPath": "./stories/addon-actions.stories.js",
+      "kind": "Addons/Actions",
+      "story": "Deprecated decorators - Single action",
+      "parameters": {
+        "fileName": "./stories/addon-actions.stories.js",
+        "framework": "html",
+        "__id": "addons-actions--deprecated-decorators-story-1",
+        "__isArgsStory": false
+      }
+    },
+    "addons-actions--deprecated-decorators-story-2": {
+      "id": "addons-actions--deprecated-decorators-story-2",
+      "name": "Deprecated decorators - Multiple actions",
+      "title": "Addons/Actions",
+      "importPath": "./stories/addon-actions.stories.js",
+      "kind": "Addons/Actions",
+      "story": "Deprecated decorators - Multiple actions",
+      "parameters": {
+        "fileName": "./stories/addon-actions.stories.js",
+        "framework": "html",
+        "__id": "addons-actions--deprecated-decorators-story-2",
+        "__isArgsStory": false
+      }
+    },
+    "addons-actions--deprecated-decorators-story-3": {
+      "id": "addons-actions--deprecated-decorators-story-3",
+      "name": "Deprecated decorators - Multiple actions + config",
+      "title": "Addons/Actions",
+      "importPath": "./stories/addon-actions.stories.js",
+      "kind": "Addons/Actions",
+      "story": "Deprecated decorators - Multiple actions + config",
+      "parameters": {
+        "fileName": "./stories/addon-actions.stories.js",
+        "framework": "html",
+        "__id": "addons-actions--deprecated-decorators-story-3",
+        "__isArgsStory": false
+      }
+    },
+    "addons-actions--deprecated-decorators-story-4": {
+      "id": "addons-actions--deprecated-decorators-story-4",
+      "name": "Deprecated decorators - Multiple actions, object",
+      "title": "Addons/Actions",
+      "importPath": "./stories/addon-actions.stories.js",
+      "kind": "Addons/Actions",
+      "story": "Deprecated decorators - Multiple actions, object",
+      "parameters": {
+        "fileName": "./stories/addon-actions.stories.js",
+        "framework": "html",
+        "__id": "addons-actions--deprecated-decorators-story-4",
+        "__isArgsStory": false
+      }
+    },
+    "addons-backgrounds--story-1": {
+      "id": "addons-backgrounds--story-1",
+      "name": "story 1",
+      "title": "Addons/Backgrounds",
+      "importPath": "./stories/addon-backgrounds.stories.js",
+      "kind": "Addons/Backgrounds",
+      "story": "story 1",
+      "parameters": {
+        "fileName": "./stories/addon-backgrounds.stories.js",
+        "framework": "html",
+        "__id": "addons-backgrounds--story-1",
+        "__isArgsStory": false
+      }
+    },
+    "addons-backgrounds--story-2": {
+      "id": "addons-backgrounds--story-2",
+      "name": "story 2",
+      "title": "Addons/Backgrounds",
+      "importPath": "./stories/addon-backgrounds.stories.js",
+      "kind": "Addons/Backgrounds",
+      "story": "story 2",
+      "parameters": {
+        "fileName": "./stories/addon-backgrounds.stories.js",
+        "framework": "html",
+        "__id": "addons-backgrounds--story-2",
+        "__isArgsStory": false
+      }
+    },
+    "addons-controls--hello": {
+      "id": "addons-controls--hello",
+      "name": "Hello",
+      "title": "Addons/Controls",
+      "importPath": "./stories/addon-controls.stories.js",
+      "kind": "Addons/Controls",
+      "story": "Hello",
+      "parameters": {
+        "fileName": "./stories/addon-controls.stories.js",
+        "framework": "html",
+        "__id": "addons-controls--hello",
+        "__isArgsStory": true
+      }
+    },
+    "addons-controls--bonjour": {
+      "id": "addons-controls--bonjour",
+      "name": "Bonjour",
+      "title": "Addons/Controls",
+      "importPath": "./stories/addon-controls.stories.js",
+      "kind": "Addons/Controls",
+      "story": "Bonjour",
+      "parameters": {
+        "fileName": "./stories/addon-controls.stories.js",
+        "framework": "html",
+        "__id": "addons-controls--bonjour",
+        "__isArgsStory": true
+      }
+    },
+    "addons-docs--heading": {
+      "id": "addons-docs--heading",
+      "name": "heading",
+      "title": "Addons/Docs",
+      "importPath": "./stories/addon-docs.stories.mdx",
+      "kind": "Addons/Docs",
+      "story": "heading",
+      "parameters": {
+        "fileName": "./stories/addon-docs.stories.mdx",
+        "framework": "html",
+        "__id": "addons-docs--heading",
+        "__isArgsStory": false
+      }
+    },
+    "addons-docs--function-story": {
+      "id": "addons-docs--function-story",
+      "name": "function",
+      "title": "Addons/Docs",
+      "importPath": "./stories/addon-docs.stories.mdx",
+      "kind": "Addons/Docs",
+      "story": "function",
+      "parameters": {
+        "fileName": "./stories/addon-docs.stories.mdx",
+        "framework": "html",
+        "__id": "addons-docs--function-story",
+        "__isArgsStory": false
+      }
+    },
+    "addons-docs--standard-source": {
+      "id": "addons-docs--standard-source",
+      "name": "standard source",
+      "title": "Addons/Docs",
+      "importPath": "./stories/addon-docs.stories.mdx",
+      "kind": "Addons/Docs",
+      "story": "standard source",
+      "parameters": {
+        "fileName": "./stories/addon-docs.stories.mdx",
+        "framework": "html",
+        "__id": "addons-docs--standard-source",
+        "__isArgsStory": false
+      }
+    },
+    "addons-docs--custom-source": {
+      "id": "addons-docs--custom-source",
+      "name": "custom source",
+      "title": "Addons/Docs",
+      "importPath": "./stories/addon-docs.stories.mdx",
+      "kind": "Addons/Docs",
+      "story": "custom source",
+      "parameters": {
+        "fileName": "./stories/addon-docs.stories.mdx",
+        "framework": "html",
+        "__id": "addons-docs--custom-source",
+        "__isArgsStory": false
+      }
+    },
+    "addons-docs--transformed-source": {
+      "id": "addons-docs--transformed-source",
+      "name": "transformed source",
+      "title": "Addons/Docs",
+      "importPath": "./stories/addon-docs.stories.mdx",
+      "kind": "Addons/Docs",
+      "story": "transformed source",
+      "parameters": {
+        "fileName": "./stories/addon-docs.stories.mdx",
+        "framework": "html",
+        "__id": "addons-docs--transformed-source",
+        "__isArgsStory": false
+      }
+    },
+    "addons-jest--with-tests": {
+      "id": "addons-jest--with-tests",
+      "name": "With Tests",
+      "title": "Addons/Jest",
+      "importPath": "./stories/addon-jest.stories.js",
+      "kind": "Addons/Jest",
+      "story": "With Tests",
+      "parameters": {
+        "fileName": "./stories/addon-jest.stories.js",
+        "framework": "html",
+        "__id": "addons-jest--with-tests",
+        "__isArgsStory": false
+      }
+    },
+    "demo--heading": {
+      "id": "demo--heading",
+      "name": "Heading",
+      "title": "Demo",
+      "importPath": "./stories/button.stories.js",
+      "kind": "Demo",
+      "story": "Heading",
+      "parameters": {
+        "fileName": "./stories/button.stories.js",
+        "framework": "html",
+        "__id": "demo--heading",
+        "__isArgsStory": false
+      }
+    },
+    "demo--headings": {
+      "id": "demo--headings",
+      "name": "Headings",
+      "title": "Demo",
+      "importPath": "./stories/button.stories.js",
+      "kind": "Demo",
+      "story": "Headings",
+      "parameters": {
+        "fileName": "./stories/button.stories.js",
+        "framework": "html",
+        "__id": "demo--headings",
+        "__isArgsStory": false
+      }
+    },
+    "demo--button": {
+      "id": "demo--button",
+      "name": "Button",
+      "title": "Demo",
+      "importPath": "./stories/button.stories.js",
+      "kind": "Demo",
+      "story": "Button",
+      "parameters": {
+        "fileName": "./stories/button.stories.js",
+        "framework": "html",
+        "__id": "demo--button",
+        "__isArgsStory": false
+      }
+    },
+    "demo--effect": {
+      "id": "demo--effect",
+      "name": "Effect",
+      "title": "Demo",
+      "importPath": "./stories/button.stories.js",
+      "kind": "Demo",
+      "story": "Effect",
+      "parameters": {
+        "fileName": "./stories/button.stories.js",
+        "framework": "html",
+        "__id": "demo--effect",
+        "__isArgsStory": false
+      }
+    },
+    "demo--script": {
+      "id": "demo--script",
+      "name": "Script",
+      "title": "Demo",
+      "importPath": "./stories/button.stories.js",
+      "kind": "Demo",
+      "story": "Script",
+      "parameters": {
+        "fileName": "./stories/button.stories.js",
+        "framework": "html",
+        "__id": "demo--script",
+        "__isArgsStory": false
+      }
+    },
+    "example-button--primary": {
+      "id": "example-button--primary",
+      "name": "Primary",
+      "title": "Example/Button",
+      "importPath": "./stories/from-essentials/Button.stories.ts",
+      "kind": "Example/Button",
+      "story": "Primary",
+      "parameters": {
+        "fileName": "./stories/from-essentials/Button.stories.ts",
+        "framework": "html",
+        "__id": "example-button--primary",
+        "__isArgsStory": true
+      }
+    },
+    "example-button--secondary": {
+      "id": "example-button--secondary",
+      "name": "Secondary",
+      "title": "Example/Button",
+      "importPath": "./stories/from-essentials/Button.stories.ts",
+      "kind": "Example/Button",
+      "story": "Secondary",
+      "parameters": {
+        "fileName": "./stories/from-essentials/Button.stories.ts",
+        "framework": "html",
+        "__id": "example-button--secondary",
+        "__isArgsStory": true
+      }
+    },
+    "example-button--large": {
+      "id": "example-button--large",
+      "name": "Large",
+      "title": "Example/Button",
+      "importPath": "./stories/from-essentials/Button.stories.ts",
+      "kind": "Example/Button",
+      "story": "Large",
+      "parameters": {
+        "fileName": "./stories/from-essentials/Button.stories.ts",
+        "framework": "html",
+        "__id": "example-button--large",
+        "__isArgsStory": true
+      }
+    },
+    "example-button--small": {
+      "id": "example-button--small",
+      "name": "Small",
+      "title": "Example/Button",
+      "importPath": "./stories/from-essentials/Button.stories.ts",
+      "kind": "Example/Button",
+      "story": "Small",
+      "parameters": {
+        "fileName": "./stories/from-essentials/Button.stories.ts",
+        "framework": "html",
+        "__id": "example-button--small",
+        "__isArgsStory": true
+      }
+    },
+    "example-header--logged-in": {
+      "id": "example-header--logged-in",
+      "name": "Logged In",
+      "title": "Example/Header",
+      "importPath": "./stories/from-essentials/Header.stories.ts",
+      "kind": "Example/Header",
+      "story": "Logged In",
+      "parameters": {
+        "fileName": "./stories/from-essentials/Header.stories.ts",
+        "framework": "html",
+        "__id": "example-header--logged-in",
+        "__isArgsStory": true
+      }
+    },
+    "example-header--logged-out": {
+      "id": "example-header--logged-out",
+      "name": "Logged Out",
+      "title": "Example/Header",
+      "importPath": "./stories/from-essentials/Header.stories.ts",
+      "kind": "Example/Header",
+      "story": "Logged Out",
+      "parameters": {
+        "fileName": "./stories/from-essentials/Header.stories.ts",
+        "framework": "html",
+        "__id": "example-header--logged-out",
+        "__isArgsStory": true
+      }
+    },
+    "example-page--logged-in": {
+      "id": "example-page--logged-in",
+      "name": "Logged In",
+      "title": "Example/Page",
+      "importPath": "./stories/from-essentials/Page.stories.ts",
+      "kind": "Example/Page",
+      "story": "Logged In",
+      "parameters": {
+        "fileName": "./stories/from-essentials/Page.stories.ts",
+        "framework": "html",
+        "__id": "example-page--logged-in",
+        "__isArgsStory": true
+      }
+    },
+    "example-page--logged-out": {
+      "id": "example-page--logged-out",
+      "name": "Logged Out",
+      "title": "Example/Page",
+      "importPath": "./stories/from-essentials/Page.stories.ts",
+      "kind": "Example/Page",
+      "story": "Logged Out",
+      "parameters": {
+        "fileName": "./stories/from-essentials/Page.stories.ts",
+        "framework": "html",
+        "__id": "example-page--logged-out",
+        "__isArgsStory": true
+      }
+    },
+    "core-loaders--story": {
+      "id": "core-loaders--story",
+      "name": "Story",
+      "title": "Core/Loaders",
+      "importPath": "./stories/loaders.stories.js",
+      "kind": "Core/Loaders",
+      "story": "Story",
+      "parameters": {
+        "fileName": "./stories/loaders.stories.js",
+        "framework": "html",
+        "__id": "core-loaders--story",
+        "__isArgsStory": true
+      }
+    },
+    "addons-source-loader--button": {
+      "id": "addons-source-loader--button",
+      "name": "Button",
+      "title": "Addons/Source loader",
+      "importPath": "./stories/source-loader.stories.js",
+      "kind": "Addons/Source loader",
+      "story": "Button",
+      "parameters": {
+        "fileName": "./stories/source-loader.stories.js",
+        "framework": "html",
+        "__id": "addons-source-loader--button",
+        "__isArgsStory": false
+      }
+    },
+    "addons-source-loader--simple-story": {
+      "id": "addons-source-loader--simple-story",
+      "name": "Very simple story",
+      "title": "Addons/Source loader",
+      "importPath": "./stories/source-loader.stories.js",
+      "kind": "Addons/Source loader",
+      "story": "Very simple story",
+      "parameters": {
+        "fileName": "./stories/source-loader.stories.js",
+        "framework": "html",
+        "__id": "addons-source-loader--simple-story",
+        "__isArgsStory": false
+      }
+    },
+    "welcome--welcome": {
+      "id": "welcome--welcome",
+      "name": "Welcome",
+      "title": "Welcome",
+      "importPath": "./stories/welcome.stories.js",
+      "kind": "Welcome",
+      "story": "Welcome",
+      "parameters": {
+        "fileName": "./stories/welcome.stories.js",
+        "framework": "html",
+        "__id": "welcome--welcome",
+        "__isArgsStory": false
+      }
+    }
+  }
+}

@@ -10,7 +10,11 @@
   "scripts": {
     "build-storybook": "build-storybook",
     "generate-addon-jest-testresults": "jest --config=tests/addon-jest.config.json --json --outputFile=stories/addon-jest.testresults.json",
-    "storybook": "start-storybook -p 9006 --no-manager-cache"
+    "storybook": "start-storybook -p 9006 --no-manager-cache",
+    "vrt:save-stories": "npx sb extract storybook-static stories.json",
+    "vrt:reference": "backstop reference --config=config.js",
+    "vrt:run": "backstop test --config=config.js"
+
   },
   "devDependencies": {
     "@storybook/addon-a11y": "6.4.22",
@@ -31,6 +35,7 @@
     "@storybook/html": "6.4.22",
     "@storybook/source-loader": "6.4.22",
     "autoprefixer": "^10.0.1",
+    "backstopjs": "^6.0.4",
     "eventemitter3": "^4.0.7",
     "format-json": "^1.0.3",
     "global": "^4.4.0",
